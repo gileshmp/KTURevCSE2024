@@ -60,7 +60,7 @@
 
 >**Note:** From this module, theory questions related to data science process, machine learning modelling process, important visualization methods and applications of ML in data science will be used for both internal and end semester assessments.
 
-# DETAILED SYLLABUS
+# $\color{blue}{\text{DETAILED SYLLABUS}}$
 
 # Module 1: Introduction to AI and Machine Learning
 
